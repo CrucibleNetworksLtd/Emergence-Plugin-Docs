@@ -5,8 +5,6 @@ description: Requirements and installing the plugin.
 
 # Getting Started
 
-{% embed url="https://www.youtube.com/watch?v=zEqBicwizXI" %}
-
 ## Pre-Requisites
 
 To use the Emergence Unreal Engine plugin, you will need the following:
