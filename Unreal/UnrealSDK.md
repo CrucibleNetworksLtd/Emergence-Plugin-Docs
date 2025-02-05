@@ -16,9 +16,7 @@ To use the Emergence Unreal Engine plugin, you will need the following:
 
 ## Installation
 
-{% hint style="success" %}
-We have a sample project if you just want to skip to seeing everything working, check it out [here](../sample-project.md)!
-{% endhint %}
+*We have a sample project if you just want to skip to seeing everything working, check it out [here](../sample-project.md)!*
 
 Extract the [Emergence plugin zip file](https://github.com/CrucibleNetworksLtd/EmergenceSDKUnreal/releases) to your game’s plugin folder (if you don’t have a plugins folder, just create one called “Plugins” at the root folder of your game e.g. one one with Source, Saved, Content, etc). Extract the zip to this folder. It should look something like `[Your Game]/Plugins/Emergence/Emergence.uplugin`, for example.
 
