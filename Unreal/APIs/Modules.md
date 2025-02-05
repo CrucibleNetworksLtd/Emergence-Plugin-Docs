@@ -10,15 +10,15 @@ The Unreal plugin is split into modules. You can learn about the APIs each modul
 
 ## [EmergenceCore](./EmergenceCore/EmergenceCore)
 
-## EmergenceBlockchainWallet
+## [EmergenceBlockchainWallet](./EmergenceBlockchainWallet/EmergenceBlockchainWallet)
 
-## EmergenceHelperFunctions
+## [EmergenceHelperFunctions](./EmergenceHelperFunctions/EmergenceHelperFunctions)
 
-## EmergenceFutureverseAssetRegistry
+## [EmergenceFutureverseAssetRegistry](./EmergenceFutureverseAssetRegistry/EmergenceFutureverseAssetRegistry)
 
-## EmergenceInventory
+## [EmergenceInventory](./EmergenceInventory/EmergenceInventory)
 
-## EmergenceIAS
+## [EmergenceIAS](./EmergenceIAS/EmergenceIAS)
 
 
 
