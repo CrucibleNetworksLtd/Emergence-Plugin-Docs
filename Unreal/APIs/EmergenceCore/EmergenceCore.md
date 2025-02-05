@@ -1,6 +1,6 @@
 ---
 title: EmergenceCore
-parent: Modules
+parent: APIs
 grand_parent: Unreal Plugin
 layout: default
 ---

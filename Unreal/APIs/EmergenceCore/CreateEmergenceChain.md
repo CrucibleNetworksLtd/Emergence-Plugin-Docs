@@ -1,7 +1,7 @@
 ---
 title: CreateEmergenceChain
 parent: EmergenceCore
-grand_parent: Modules
+grand_parent: APIs
 layout: default
 ---
 
