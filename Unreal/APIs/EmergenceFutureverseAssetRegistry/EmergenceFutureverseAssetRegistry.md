@@ -1,13 +1,13 @@
 ---
 title: EmergenceFutureverseAssetRegistry
-parent: APIs
+parent: APIs By Module
 grand_parent: Unreal Plugin
 layout: default
 ---
 
 # EmergenceFutureverseAssetRegistry Module
 
-This is the module that handles everything to do with the Futureverse Asset Registery.
+This is the module that handles everything to do with the Futureverse Asset Registery. To use any of these functions in C++, make sure to include the module `EmergenceFutureverseAssetRegistry`.
 
 ## GenerateARTM
 

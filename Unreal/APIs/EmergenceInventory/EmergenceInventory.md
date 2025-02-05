@@ -1,13 +1,13 @@
 ---
 title: EmergenceInventory
-parent: APIs
+parent: APIs By Module
 grand_parent: Unreal Plugin
 layout: default
 ---
 
 # EmergenceInventory Module
 
-This is the module that exposes functions for making use of the Inventory Service.
+This is the module that exposes functions for making use of the Inventory Service. To use any of these functions in C++, make sure to include the module `EmergenceInventory`.
 
 ## InventoryByOwner
 
