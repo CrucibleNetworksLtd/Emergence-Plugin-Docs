@@ -1,6 +1,7 @@
 ---
 title: Unreal Plugin
 description: Requirements and installing the plugin.
+layout: default
 ---
 
 # Getting Started

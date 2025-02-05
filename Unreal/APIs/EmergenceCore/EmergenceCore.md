@@ -2,6 +2,7 @@
 title: EmergenceCore
 parent: Modules
 grand_parent: Unreal Plugin
+layout: default
 ---
 
 # EmergenceCore Module
