@@ -7,9 +7,7 @@ layout: default
 
 # EmergenceCore Module
 
-The Unreal plugin is split into modules. You can learn about the APIs each module provides below:
-
-## GetFutureverseCreateFuturepassURL
+This is the module that contains all the http service library, image handling, blueprint async classes, and base types that the other modules rely on.
 
 ## CreateEmergenceChain
 
@@ -22,3 +20,5 @@ The Unreal plugin is split into modules. You can learn about the APIs each modul
 ## Conv_ErrorCodeToInt
 
 ## Conv_ErrorCodeToBool
+
+## GetFutureverseCreateFuturepassURL
