@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Emergence Plugin Docs
+description: Documentation of Crucible's Emergence plugin
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Unreal Github: https://github.com/CrucibleNetworksLtd/EmergenceSDKUnreal
+  Fab: https://www.fab.com/listings/663187a7-fe59-4fe0-a4aa-cb6582d8842f
+  Unity Asset Store: https://assetstore.unity.com/packages/decentralization/infrastructure/emergence-sdk-252187
