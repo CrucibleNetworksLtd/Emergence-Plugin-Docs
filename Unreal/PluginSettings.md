@@ -1,6 +1,7 @@
 ---
 title: Plugin Settings
 description: Settings for the Unreal SDK.
+parent: Unreal Plugin
 ---
 
 # Plugin Settings
