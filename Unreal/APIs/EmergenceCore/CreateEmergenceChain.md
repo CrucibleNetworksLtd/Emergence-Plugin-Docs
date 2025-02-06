@@ -28,6 +28,6 @@ Creates a Emergence Blockchain object, which represents a single blockchain.
 
 # C++
 Module: `EmergenceCore`
-include: `#include "EmergenceChain.h"`
+include: `#include "Types/EmergenceChain.h"`
 
 `UEmergenceChain::CreateEmergenceChain(FText _Name, FString _NodeURL, FString _Symbol, int64 _ChainID)` - Creates an Emergence Chain.
