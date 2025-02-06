@@ -12,14 +12,14 @@ This is the module that contains all the http service library, image handling, b
 
 ## [CreateEmergenceChain](./CreateEmergenceChain)
 
-## CreateEmergenceContract
+## [CreateEmergenceContract](./CreateEmergenceContract)
 
-## CreateEmergenceDeployment
+## [CreateEmergenceDeployment](./CreateEmergenceDeployment)
 
-## Conv_IntToErrorCode
+## [Conv_IntToErrorCode](./EmergenceErrorCode)
 
-## Conv_ErrorCodeToInt
+## [Conv_ErrorCodeToInt](./EmergenceErrorCode)
 
-## Conv_ErrorCodeToBool
+## [Conv_ErrorCodeToBool](./EmergenceErrorCode)
 
 ## GetFutureverseCreateFuturepassURL
