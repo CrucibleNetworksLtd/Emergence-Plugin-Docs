@@ -1,7 +1,7 @@
 ---
 title: CreateEmergenceDeployment
 parent: EmergenceCore
-grand_parent: APIs By Module
+ancestor: Unreal Plugin
 layout: default
 ---
 

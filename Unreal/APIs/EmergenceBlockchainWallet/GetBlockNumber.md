@@ -1,7 +1,7 @@
 ---
 title: GetBlockNumber
 parent: EmergenceBlockchainWallet
-grand_parent: APIs By Module
+ancestor: Unreal Plugin
 layout: default
 ---
 
