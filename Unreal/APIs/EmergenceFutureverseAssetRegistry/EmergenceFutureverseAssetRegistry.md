@@ -1,6 +1,6 @@
 ---
 title: EmergenceFutureverseAssetRegistry
-parent: APIs By Module
+parent: APIs by Module
 ancestor: Unreal Plugin
 layout: default
 ---
