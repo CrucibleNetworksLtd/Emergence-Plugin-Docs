@@ -1,7 +1,7 @@
 ---
 title: EmergenceInventory
 parent: APIs By Module
-grand_parent: Unreal Plugin
+ancestor: Unreal Plugin
 layout: default
 ---
 

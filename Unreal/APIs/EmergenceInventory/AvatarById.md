@@ -27,7 +27,7 @@ Gets the avatar from a given ID from the Avatar System.
 Module: `EmergenceInventory`
 include: `#include "AvatarService/AvatarById.h"`
 
-`UAvatarById::AvatarById()` - instantiates this async method.
+`static UAvatarById* UAvatarById::AvatarById(UObject* WorldContextObject, const FString& AvatarIdString)` - instantiates this async method.
 `Activate()` - Activates this async method.
 In C++, the outputs of the async function can be acted upon by binding to the event delegate "`OnAvatarByIdCompleted`".
 

@@ -27,7 +27,7 @@ Gets the all the avatars of a given address from the Avatar System.
 Module: `EmergenceInventory`
 include: `#include "AvatarService/AvatarsByOwner.h"`
 
-`UAvatarsByOwner::AvatarsByOwner()` - instantiates this async method.
+`static UAvatarByOwner* AvatarByOwner(UObject* WorldContextObject, const FString& Address)` - instantiates this async method.
 `Activate()` - Activates this async method.
 In C++, the outputs of the async function can be acted upon by binding to the event delegate "`OnAvatarsByOwnerCompleted`".
 
