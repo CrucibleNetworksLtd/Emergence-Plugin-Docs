@@ -5,7 +5,7 @@ ancestor: Unreal Plugin
 layout: default
 ---
 
-![](GetDataFromUrl.png)
+![](GetDataFromUrl.PNG)
 
 Takes a URL string and gets the data. Can be HTTP or IPFS.
 

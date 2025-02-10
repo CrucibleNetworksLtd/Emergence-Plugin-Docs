@@ -5,7 +5,7 @@ ancestor: Unreal Plugin
 layout: default
 ---
 
-![](GetBalance.png)
+![](GetBalance.PNG)
 
 Gets the balance of the given address.
 

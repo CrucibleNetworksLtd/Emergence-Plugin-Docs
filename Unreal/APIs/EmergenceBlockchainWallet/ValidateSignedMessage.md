@@ -5,7 +5,7 @@ ancestor: Unreal Plugin
 layout: default
 ---
 
-![](ValidateSignedMessage.png)
+![](ValidateSignedMessage.PNG)
 
 Validates a signed message. Usually used server-side to authenticate player's messages.
 

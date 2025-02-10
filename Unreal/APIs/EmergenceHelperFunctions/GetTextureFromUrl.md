@@ -5,7 +5,7 @@ ancestor: Unreal Plugin
 layout: default
 ---
 
-![](GetTextureFromUrl.png)
+![](GetTextureFromUrl.PNG)
 
 Takes a URL string and gets the PNG, JPEG or GIF from it. Will not work with anything other than PNGs, JPEGs or GIFs.
 

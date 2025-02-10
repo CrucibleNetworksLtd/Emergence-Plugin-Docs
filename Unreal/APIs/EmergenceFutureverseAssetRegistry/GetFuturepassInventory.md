@@ -5,7 +5,7 @@ ancestor: Unreal Plugin
 layout: default
 ---
 
-![](GetFuturepassInventory.png)
+![](GetFuturepassInventory.PNG)
 
 Gets the futurepass inventory of the given addresses, optionally filtered by the given collections. If no collections are provided, it returns all collections.
 

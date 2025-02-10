@@ -5,7 +5,7 @@ ancestor: Unreal Plugin
 layout: default
 ---
 
-![](GetTransactionStatus.png)
+![](GetTransactionStatus.PNG)
 
 Gets the status of the transaction.
 
