@@ -1,35 +1,36 @@
 ---
-title: AvatarsByOwner
+title: InventoryByOwner
 parent: EmergenceInventory
 ancestor: Unreal Plugin
 layout: default
 ---
 
-![](AvatarsByOwner.png)
+![](InventoryByOwner.png)
 
-Gets the all the avatars of a given address from the Avatar System.
+Gets the inventory (owned tokens) from a given address.
 
 # Inputs
 
 | - | - | - |
 |Type|Name|Description|
 |UObject\*|WorldContextObject|The WorldContextObject for this function. This is mainly used for registering the async method with the GameInstance.|
-|FString|Address|Address to get the avatars of.|
+|const FString&|Address|Address to get the inventory from.|
+|const FString&|Network|Comma seperated list of networks to get the inventory from. To get from all available, enter "ETHEREUM,POLYGON,FLOW,TEZOS,SOLANA,IMMUTABLEX".|
 
 # Outputs
 
 | - | - | - |
 |Type|Name|Description|
-|const TArray<FEmergenceAvatarResult>&|Avatars|An array of the avatars associated with this wallet.|
+|const FEmergenceAvatarData&|Avatar|This avatar's data.|
 |EErrorCode|StatusCode|Any errors that occured trying to get the data.|
 
 # C++
 Module: `EmergenceInventory`
-include: `#include "AvatarService/AvatarsByOwner.h"`
+include: `#include "InventoryService/InventoryByOwner.h"`
 
-`static UAvatarByOwner* AvatarByOwner(UObject* WorldContextObject, const FString& Address)` - instantiates this async method.
+`static UInventoryByOwner* InventoryByOwner(UObject* WorldContextObject, const FString& Address, const FString& Network)` - instantiates this async method.
 `Activate()` - Activates this async method.
-In C++, the outputs of the async function can be acted upon by binding to the event delegate "`OnAvatarsByOwnerCompleted`".
+In C++, the outputs of the async function can be acted upon by binding to the event delegate "`OnInventoryByOwnerCompleted`".
 
 # Additional Information
 
