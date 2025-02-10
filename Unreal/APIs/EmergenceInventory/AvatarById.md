@@ -5,7 +5,7 @@ ancestor: Unreal Plugin
 layout: default
 ---
 
-![](AvatarById.png)
+![](AvatarById.PNG)
 
 Gets the avatar from a given ID from the Avatar System.
 

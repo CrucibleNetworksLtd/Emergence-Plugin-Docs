@@ -5,7 +5,7 @@ ancestor: Unreal Plugin
 layout: default
 ---
 
-![](AvatarByOwner.png)
+![](AvatarByOwner.PNG)
 
 Gets the all the avatars of a given address from the Avatar System.
 

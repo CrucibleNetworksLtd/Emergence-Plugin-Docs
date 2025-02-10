@@ -5,7 +5,7 @@ ancestor: Unreal Plugin
 layout: default
 ---
 
-![](GetBlockNumber.png)
+![](GetBlockNumber.PNG)
 
 Gets the current block number of given chain.
 

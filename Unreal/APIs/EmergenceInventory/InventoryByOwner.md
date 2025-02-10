@@ -5,7 +5,7 @@ ancestor: Unreal Plugin
 layout: default
 ---
 
-![](InventoryByOwner.png)
+![](InventoryByOwner.PNG)
 
 Gets the inventory (owned tokens) from a given address.
 
