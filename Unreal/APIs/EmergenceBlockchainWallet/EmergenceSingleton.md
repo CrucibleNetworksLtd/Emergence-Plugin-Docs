@@ -90,3 +90,11 @@ Kills the walletconnect session. Setting TrackRequest to false will mean OnSessi
 | - | - | - |
 |Type|Name|Description|
 |bool|TrackRequest|Setting TrackRequest to false will mean OnSessionEnded will never fire, and this request won't be added to ActiveRequests (good to prevent this getting premptively killed going from PIE back to Editor.|
+
+## CancelSignInRequest
+
+Cancels any open WalletConnect "GetHandshake" requests, which are spawned by the WalletConnect Widget.
+
+![](CancelSignInRequest.PNG)
+
+`void CancelSignInRequest()`
