@@ -38,6 +38,6 @@ If you wish to use Emergence's C++ API from you're game's code, you'll need to:
 
 We recommend checking out these two Tutorials to keep going:
 
-* ["How to read / write to smart contracts"](../sample-code/how-to-read-write-to-smart-contracts.md) If your game is utilizing your own web3 assets and smart contracts, then you'll want to check out this tutorial next
-* ["How to get VRMs working with Emergence"](../sample-code/avatar-system-how-to-get-vrms-working-with-emergence.md). Setting up this section will allow your users to load their Game Ready Avatars that are linked to their personas, into your game world!
+* "How to read / write to smart contracts". If your game is utilizing your own web3 assets and smart contracts, then you'll want to check out this tutorial next
+* ["How to get VRMs working with Emergence"](EmergenceVRMSupport/EmergenceVRMSupport). Setting up this section will allow your users to load their game ready avatars into your game world!
 

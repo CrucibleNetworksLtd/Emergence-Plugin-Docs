@@ -42,6 +42,10 @@ You want to click on the EmergenceVRMMesh and set the Anim Class to the class yo
 
 Remember, the location or rotation of this mesh shouldn’t matter as it won’t be visible.
 
+## Getting the URL of a VRM
+
+You can use [AvatarByOwner](./Unreal/APIs/EmergenceInventory/AvatarByOwner) or [GetInteroperableAssetsByFilterAndElements](./EmergenceIAS/GetInteroperableAssetsByFilterAndElements) to get details (such as the URL) of player's owned VRMs.
+
 ## Loading the VRM from a URL
 
 Now that you have the components set-up and the URL of the model, all thats left to do is load the model. The Avatar's files will be downloaded via the "GetDataFromURL" node. This can take a few moments, as files can be rather large. So expect a few moments before the Avatar is ready and loaded in your game!
