@@ -20,7 +20,7 @@ Then, open your Unreal Engine project and go to the plugin configuration window.
 
 When you restart, you will be asked if you want to rebuild a number of unbuilt modules - click “Yes”. Do not be concerned if this takes a while, there is a lot of code to compile!
 
-![](MissingModules.PNG)
+![](MissingModule.PNG)
 
 ## Creating a skeleton compatible with VRM4U
 
