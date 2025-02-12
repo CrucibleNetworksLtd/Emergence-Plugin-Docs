@@ -1,6 +1,6 @@
 ---
 title: GetInteroperableAssetsByFilterAndElements
-parent: EmergenceBlockchainWallet
+parent: EmergenceIAS
 ancestor: Unreal Plugin
 layout: default
 ---
