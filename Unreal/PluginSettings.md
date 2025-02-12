@@ -9,7 +9,7 @@ layout: default
 
 The plugin settings can be found in the project setting when the plugin is enabled. You don't need to set anything up to get started, this is just a reference for what each of them does (you can also see by hovering over each one in engine).
 
-![](PluginSettings.png)
+![](PluginSettings.PNG)
 
 ## General
 
