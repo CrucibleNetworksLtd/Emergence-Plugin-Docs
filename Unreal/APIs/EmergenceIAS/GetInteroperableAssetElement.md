@@ -9,6 +9,8 @@ layout: default
 
 Given an array of Emergence IA Elements, find the one that matches a given Element class.
 
+**Note: InteroperableAssets in the Emergence plugin are experimental and shouldn't yet be used in released game!**
+
 # Inputs
 
 | - | - | - |

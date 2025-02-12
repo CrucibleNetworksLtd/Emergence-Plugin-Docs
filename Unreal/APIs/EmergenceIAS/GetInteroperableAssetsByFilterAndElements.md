@@ -9,6 +9,8 @@ layout: default
 
 Gets IAs by one or many filters, and one or many IAS Elements.
 
+**Note: InteroperableAssets in the Emergence plugin are experimental and shouldn't yet be used in released game!**
+
 # Inputs
 
 | - | - | - |
