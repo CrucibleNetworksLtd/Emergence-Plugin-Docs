@@ -45,6 +45,12 @@ Event Dispatcher (dynamic multicast delegate) called when the user has done the 
 
 `FOnLoginFinished OnLoginFinished`
 
+### Outputs 
+
+| - | - | - |
+|Type|Name|Description|
+|EErrorCode|StatusCode|Any erorrs that occurred during the login process. The errors that can occur depend on the type of login.|
+
 ## OnSessionEnded
 
 Event Dispatcher (dynamic multicast delegate) called when a WalletConnect / Futureverse Custodial session ends (for example, the user logs out).
@@ -63,7 +69,24 @@ Event Dispatcher (dynamic multicast delegate) checks if a walletconnect session 
 
 `FOnIsConnectedCompleted OnIsConnectedCompleted`
 
+### Outputs 
+
+| - | - | - |
+|Type|Name|Description|
+|bool|IsConnected|If the user is connected with WalletConnect.|
+|FString|Address|The WalletConnect'd user's address.|
+|EErrorCode|StatusCode|Any erorrs that occurred.|
+
 ## KillWalletConnectSession
 
 Kills the walletconnect session. Setting TrackRequest to false will mean OnSessionEnded will never fire, and this request won't be added to ActiveRequests (good to prevent this getting premptively killed going from PIE back to Editor.
 
+![](KillWalletConnectSession.PNG)
+
+`void KillWalletConnectSession(bool TrackRequest = true)`
+
+### Inputs
+
+| - | - | - |
+|Type|Name|Description|
+|bool|TrackRequest|Setting TrackRequest to false will mean OnSessionEnded will never fire, and this request won't be added to ActiveRequests (good to prevent this getting premptively killed going from PIE back to Editor.|
