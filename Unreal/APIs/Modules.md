@@ -7,7 +7,7 @@ has_toc: false
 
 # APIs by Module
 
-The Unreal plugin is split into modules. You can learn about the APIs each module provides below:
+The Unreal plugin is split into modules, which expose C++ methods and blueprints nodes for you to use. You can learn about the APIs each module provides below:
 
 ### [EmergenceCore](./EmergenceCore/EmergenceCore)
 
@@ -21,19 +21,13 @@ The Unreal plugin is split into modules. You can learn about the APIs each modul
 
 ### [EmergenceIAS](./EmergenceIAS/EmergenceIAS)
 
-
-
 Additionally, there are some modules that expose no API, some of which are dependencies of the above modules:
 
-### EmergenceEditor
-
-### EmergenceEmailForm
-
-### HashSHA256
-
-### JwtVerifier
-
-### JwtCpp
+* EmergenceEditor
+* EmergenceEmailForm
+* HashSHA256
+* JwtVerifier
+* JwtCpp
 
 ## Module Dependency Map
 
