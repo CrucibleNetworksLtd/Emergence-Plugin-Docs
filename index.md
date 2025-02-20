@@ -5,7 +5,7 @@ layout: home
 
 # Welcome to Emergence
 
-<iframe src="https://cdn.iframe.ly/hWURgAe" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen="" scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;"></iframe>
+<iframe src="https://cdn.iframe.ly/hWURgAe" style="aspect-ratio: 1.7; border: 0; width: 100%;" allowfullscreen="" scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;"></iframe>
 
 # What Is Emergence SDK?
 
