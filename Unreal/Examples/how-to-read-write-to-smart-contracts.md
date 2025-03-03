@@ -8,7 +8,7 @@ layout: default
 
 
 Check out the tutorial below for a tutorial of reading and writing to smart contracts.
-<iframe src="https://cdn.iframe.ly/thcO1Mx5AP8" style="aspect-ratio: 1.7; border: 0; width: 100%;" allowfullscreen="" scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;"></iframe>
+<iframe src="https://www.youtube.com/embed/thcO1Mx5AP8" style="aspect-ratio: 1.7; border: 0; width: 100%;" allowfullscreen="" scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;"></iframe>
 
 An example of this can be found in the Emergence Sample Project, check it out [here](https://github.com/CrucibleNetworksLtd/EmergenceSDKUnreal/releases)!
 
