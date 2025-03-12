@@ -12,7 +12,12 @@ defaults:
 
 
 url: https://just-the-docs.github.io
-
+gh_edit_link: true
+gh_edit_link_text: "Page wrong? Edit this page on GitHub!"
+gh_edit_repository: "https://github.com/CrucibleNetworksLtd/Emergence-Plugin-Docs"
+gh_edit_branch: "main"
+gh_edit_source: ""
+gh_edit_view_mode: "edit"
 aux_links:
   Unreal Github: https://github.com/CrucibleNetworksLtd/EmergenceSDKUnreal
   Fab: https://www.fab.com/listings/663187a7-fe59-4fe0-a4aa-cb6582d8842f
