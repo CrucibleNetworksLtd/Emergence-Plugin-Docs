@@ -1,0 +1,21 @@
+@import "./color_schemes/dark";
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+$link-color: #f81808;
+$sidebar-color: #0d0d0d;
+$body-background-color: #0d0d0d;
+$table-background-color: #0d0d0d;
+$search-background-color: #0d0d0d;
+$code-background-color: #0d0d0d;
+$border-color: #f818087a;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#toctitle, .site-title {
+	font-family: 'Inter', sans-serif;
+	font-weight: bold !important;
+}
