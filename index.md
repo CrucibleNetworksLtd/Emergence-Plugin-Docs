@@ -14,7 +14,7 @@ Emergence is a Web3 plugin for Unreal Engine and Unity. Emergence empowers game 
 
 Emergence is designed to be the easy on-ramp for the Open Metaverse, made available in games, virtual worlds, virtual reality and more via integration of the Emergence SDK.
 
-We have both an [Unreal](/Unity/UnrealSDK) and [Unity](/Unity/UnitySDK) plugin.
+We have both an [Unreal](./Unity/UnrealSDK) and [Unity](./Unity/UnitySDK) plugin.
 
 ## Features Overview
 
