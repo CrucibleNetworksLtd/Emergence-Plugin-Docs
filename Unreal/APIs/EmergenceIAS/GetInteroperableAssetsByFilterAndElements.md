@@ -2,7 +2,6 @@
 title: GetInteroperableAssetsByFilterAndElements
 parent: EmergenceIAS
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetInteroperableAssetsByFilterAndElements.PNG)

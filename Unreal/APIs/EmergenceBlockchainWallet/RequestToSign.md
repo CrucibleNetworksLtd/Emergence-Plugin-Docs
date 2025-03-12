@@ -2,7 +2,6 @@
 title: RequestToSign
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](RequestToSign.PNG)

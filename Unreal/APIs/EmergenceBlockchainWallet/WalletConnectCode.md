@@ -2,7 +2,6 @@
 title: WalletConnectCode
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](WalletConnectCodeExample.PNG)

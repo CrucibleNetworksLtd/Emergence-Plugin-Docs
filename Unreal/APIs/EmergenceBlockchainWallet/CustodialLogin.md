@@ -2,7 +2,6 @@
 title: CustodialLogin
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](CustodialLogin.PNG)

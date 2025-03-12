@@ -2,7 +2,6 @@
 title: ReadMethodJSONToString
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](ReadMethodJSONToString.PNG)

@@ -2,7 +2,6 @@
 title: GetInteroperableAssetElement
 parent: EmergenceIAS
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetInteroperableAssetElement.PNG)

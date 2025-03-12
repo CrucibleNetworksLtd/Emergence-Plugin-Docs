@@ -1,7 +1,6 @@
 ---
 title: How to read / write to smart contracts
 parent: Unreal Examples
-layout: default
 ---
 
 # How to read / write to smart contracts

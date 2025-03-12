@@ -2,7 +2,6 @@
 title: AvatarByOwner
 parent: EmergenceInventory
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](AvatarByOwner.PNG)

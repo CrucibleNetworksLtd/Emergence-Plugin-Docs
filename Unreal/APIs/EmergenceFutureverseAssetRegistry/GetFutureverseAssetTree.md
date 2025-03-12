@@ -2,7 +2,6 @@
 title: GetFutureverseAssetTree
 parent: EmergenceFutureverseAssetRegistry
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetFutureverseAssetTree.PNG)

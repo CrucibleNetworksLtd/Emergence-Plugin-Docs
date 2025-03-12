@@ -2,7 +2,6 @@
 title: EmergenceSingleton
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](EmergenceSingletonSubsystemNode.PNG)

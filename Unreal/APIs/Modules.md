@@ -1,7 +1,6 @@
 ---
 title: APIs by Module
 parent: Unreal Plugin
-layout: default
 has_toc: false
 ---
 

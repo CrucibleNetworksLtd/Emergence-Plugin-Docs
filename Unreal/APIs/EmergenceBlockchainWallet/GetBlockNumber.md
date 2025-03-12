@@ -2,7 +2,6 @@
 title: GetBlockNumber
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetBlockNumber.PNG)

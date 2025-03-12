@@ -2,7 +2,6 @@
 title: SendFutureverseARTM
 parent: EmergenceFutureverseAssetRegistry
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](SendFutureverseARTM.PNG)

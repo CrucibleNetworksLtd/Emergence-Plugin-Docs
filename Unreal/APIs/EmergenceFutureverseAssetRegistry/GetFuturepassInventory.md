@@ -2,7 +2,6 @@
 title: GetFuturepassInventory
 parent: EmergenceFutureverseAssetRegistry
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetFuturepassInventory.PNG)

@@ -2,7 +2,6 @@
 title: OrganiseInventoryItems
 parent: EmergenceInventory
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](OrganiseInventoryItems.PNG)

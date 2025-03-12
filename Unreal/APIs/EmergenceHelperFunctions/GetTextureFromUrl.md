@@ -2,7 +2,6 @@
 title: GetTextureFromUrl
 parent: EmergenceHelperFunctions
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetTextureFromUrl.PNG)

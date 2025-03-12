@@ -2,7 +2,6 @@
 title: EmergenceCore
 parent: APIs by Module
 ancestor: Unreal Plugin
-layout: default
 nav_order: 0
 ---
 

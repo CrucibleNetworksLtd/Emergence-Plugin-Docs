@@ -2,7 +2,6 @@
 title: GetBalance
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetBalance.PNG)

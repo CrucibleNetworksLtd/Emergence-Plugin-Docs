@@ -1,7 +1,6 @@
 ---
 title: EmergenceErrorCode
 description: These are various BlueprintAutocasts to help you convert between EErrorCodes and other types.
-layout: default
 parent: EmergenceCore
 ancestor: Unreal Plugin
 ---

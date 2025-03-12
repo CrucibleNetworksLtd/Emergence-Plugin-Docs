@@ -1,7 +1,6 @@
 ---
 title: Unreal Examples
 parent: Unreal Plugin
-layout: default
 ---
 
 # Unreal Examples

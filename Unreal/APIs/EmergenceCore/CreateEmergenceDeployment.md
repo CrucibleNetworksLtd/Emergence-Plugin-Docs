@@ -2,7 +2,6 @@
 title: CreateEmergenceDeployment
 parent: EmergenceCore
 ancestor: Unreal Plugin
-layout: default
 ---
 
 # CreateEmergenceDeployment

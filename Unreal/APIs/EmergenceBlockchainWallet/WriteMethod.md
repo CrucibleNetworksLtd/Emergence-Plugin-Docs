@@ -2,7 +2,6 @@
 title: WriteMethod
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](WriteMethod.PNG)

@@ -2,7 +2,6 @@
 title: Asset Types
 description: Game assets for managing blockchains and smart contracts.
 parent: Unreal Plugin
-layout: default
 ---
 
 # Emergence Asset Types

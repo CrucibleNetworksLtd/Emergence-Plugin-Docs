@@ -2,7 +2,6 @@
 title: CreateEmergenceContract
 parent: EmergenceCore
 ancestor: Unreal Plugin
-layout: default
 ---
 
 # CreateEmergenceContract

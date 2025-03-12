@@ -2,7 +2,6 @@
 title: ValidateSignedMessage
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](ValidateSignedMessage.PNG)

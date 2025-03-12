@@ -2,7 +2,6 @@
 title: ReadMethod
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](ReadMethod.PNG)

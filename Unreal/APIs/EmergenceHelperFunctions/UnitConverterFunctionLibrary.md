@@ -1,7 +1,6 @@
 ---
 title: UnitConverterFunctionLibrary
 description: These are various BlueprintAutocasts to help you convert numbers between Eth units.
-layout: default
 parent: EmergenceHelperFunctions
 ancestor: Unreal Plugin
 ---

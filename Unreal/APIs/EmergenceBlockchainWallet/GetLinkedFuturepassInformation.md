@@ -2,7 +2,6 @@
 title: GetLinkedFuturepassInformation
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetLinkedFuturepassInformation.PNG)

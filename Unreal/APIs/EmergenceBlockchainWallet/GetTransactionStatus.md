@@ -2,7 +2,6 @@
 title: GetTransactionStatus
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetTransactionStatus.PNG)

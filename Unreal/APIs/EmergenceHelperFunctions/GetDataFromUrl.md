@@ -2,7 +2,6 @@
 title: GetDataFromUrl
 parent: EmergenceHelperFunctions
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetDataFromUrl.PNG)

@@ -2,7 +2,6 @@
 title: EmergenceHelperFunctions
 parent: APIs by Module
 ancestor: Unreal Plugin
-layout: default
 ---
 
 # EmergenceHelperFunctions Module

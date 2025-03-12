@@ -2,7 +2,6 @@
 title: GetFutureverseCreateFuturepassURL
 parent: EmergenceBlockchainWallet
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetFutureverseCreateFuturepassURL.PNG)

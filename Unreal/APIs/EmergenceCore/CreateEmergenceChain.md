@@ -2,7 +2,6 @@
 title: CreateEmergenceChain
 parent: EmergenceCore
 ancestor: Unreal Plugin
-layout: default
 ---
 
 # CreateEmergenceChain

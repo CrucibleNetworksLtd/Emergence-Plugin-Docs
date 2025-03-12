@@ -2,7 +2,6 @@
 title: GetBestDisplayImage
 parent: EmergenceInventory
 ancestor: Unreal Plugin
-layout: default
 ---
 
 ![](GetBestDisplayImage.PNG)
