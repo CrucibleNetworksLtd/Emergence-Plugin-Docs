@@ -13,7 +13,7 @@ Emergence is a Web3 plugin for Unreal Engine and Unity. Emergence empowers game 
 
 Emergence is designed to be the easy on-ramp for the Open Metaverse, made available in games, virtual worlds, virtual reality and more via integration of the Emergence SDK.
 
-We have both a [Unreal](/game-engines/unreal) and [Unity](Unity) plugin.
+We have both an [Unreal](/game-engines/unreal) and [Unity](Unity) plugin.
 
 ## Features Overview
 
@@ -24,7 +24,7 @@ We have both a [Unreal](/game-engines/unreal) and [Unity](Unity) plugin.
 * Indexed data about ERC721s and ERC1155s on Ethereum, Polygon and other popular EVM blockchains.
 * Futureverse asset registery support.
 * VRM model loading support.
-* C++ and Blueprint support for Unreal. C# methods for Unity.
+* C++ and Blueprint methods for Unreal. C# methods for Unity.
 
 # Feedback and Support
 
