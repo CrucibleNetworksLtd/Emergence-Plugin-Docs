@@ -33,10 +33,3 @@ If you wish to use Emergence's C++ API from you're game's code, you'll need to:
 * Add the Emergence modules you want to reference to your game's build.cs file 
 * Set the C++ standard to 17 or higher
 
-# Futher reading
-
-We recommend checking out these two Tutorials to keep going:
-
-* "How to read / write to smart contracts". If your game is utilizing your own web3 assets and smart contracts, then you'll want to check out this tutorial next
-* ["How to get VRMs working with Emergence"](EmergenceVRMSupport/EmergenceVRMSupport). Setting up this section will allow your users to load their game ready avatars into your game world!
-
