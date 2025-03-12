@@ -15,6 +15,17 @@ Emergence is designed to be the easy on-ramp for the Open Metaverse, made availa
 
 We have both a [Unreal](/game-engines/unreal) and [Unity](Unity) plugin.
 
+## Features Overview
+
+* Login with WalletConnect (non-custodial) or Futureverse's web login flow (custodial). 
+* Reading and writing (when a user is logged in) to any EVM smart contract on any EVM chain, transaction status checking (for game clients).
+* Writing to smart contracts with a given private key (for game servers).
+* Requesting and validating signed messages from a logged in user.
+* Indexed data about ERC721s and ERC1155s on Ethereum, Polygon and other popular EVM blockchains.
+* Futureverse asset registery support.
+* VRM model loading support.
+* C++ and Blueprint support for Unreal. C# methods for Unity.
+
 # Feedback and Support
 
 We are always looking for feedback from our community and continuing to build upon what we've built based on what YOU want and need to continue your Web3 Journey. 
