@@ -10,8 +10,7 @@ defaults:
     values:
       layout: "default"
 
-
-url: https://just-the-docs.github.io
+url: https://cruciblenetworksltd.github.io/Emergence-Plugin-Docs/
 gh_edit_link: true
 gh_edit_link_text: "Page wrong? Edit this page on GitHub!"
 gh_edit_repository: "https://github.com/CrucibleNetworksLtd/Emergence-Plugin-Docs"
