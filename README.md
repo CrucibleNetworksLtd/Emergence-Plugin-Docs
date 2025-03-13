@@ -2,6 +2,11 @@
 
 This is the repo for the Emergence plugin docs. If you think anything here is wrong, or want to contribute, make a Pull Request!
 
+You can find these docs at either:
+https://cruciblenetworksltd.github.io/Emergence-Plugin-Docs/
+or
+https://docs.emergence.site/
+
 ## Licensing and Attribution
 
 This repository (the Emergence plugin docs) licensed under the [MIT License]. The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
