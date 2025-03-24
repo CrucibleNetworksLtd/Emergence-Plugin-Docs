@@ -9,7 +9,7 @@ The EmergenceVRMSupport is a plugin that acts as a wrapper around another plugin
 
 ## Getting EmergenceVRMSupport and VRM4U
 
-Currently, the EmergenceVRMSupport plugin is obtainable via our [Github](https://github.com/CrucibleNetworksLtd/EmergenceSDKUnreal/releases). The special version of VRM4U that Emergence is compatible with is distrobuted along-side each release of the plugin, however if you wish to see what the changes we make to the VRM4U plugin are, you can find those in [our fork of it here](https://github.com/CrucibleNetworksLtd/VRM4U).
+Currently, the EmergenceVRMSupport plugin is obtainable via our [Github](https://github.com/CrucibleNetworksLtd/emergence-plugin-unreal/releases). The special version of VRM4U that Emergence is compatible with is distrobuted along-side each release of the plugin, however if you wish to see what the changes we make to the VRM4U plugin are, you can find those in [our fork of it here](https://github.com/CrucibleNetworksLtd/VRM4U).
 
 ## Enabling VRM4U and the Emergence VRM Support
 
