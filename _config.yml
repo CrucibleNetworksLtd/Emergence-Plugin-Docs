@@ -18,6 +18,7 @@ gh_edit_branch: "main"
 gh_edit_source: ""
 gh_edit_view_mode: "edit"
 aux_links:
-  Unreal Github: https://github.com/CrucibleNetworksLtd/EmergenceSDKUnreal
-  Fab: https://www.fab.com/listings/663187a7-fe59-4fe0-a4aa-cb6582d8842f
+  Unreal Github: https://github.com/CrucibleNetworksLtd/emergence-plugin-unreal
+  Fab (Unreal/Unity): https://www.fab.com/listings/663187a7-fe59-4fe0-a4aa-cb6582d8842f
   Unity Asset Store: https://assetstore.unity.com/packages/decentralization/infrastructure/emergence-sdk-252187
+  Unity Github: https://github.com/CrucibleNetworksLtd/emergence-plugin-unity
